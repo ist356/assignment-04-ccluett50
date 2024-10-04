@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Connor Cluett
+Sudent Email:  cpcluett@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+This lab was a focus on creating functions in a pandaslibrary and then importing the function. In addition, this lab helped me use streamlit and I learned how to upload different kinds of files to create a df in streamlit. Additionally, I learned how to build filters in streamlit as we will be using this later in the course. When using streamlit its important to run the code top down with if statements, to ensure the user can update continuosuly and change the filter to suit their needs. Most of these functions we have used in class, and I used this homework to learn more about filtering dataframes and just how to print on streamlit. 
